@@ -1,0 +1,20 @@
+{
+  "parent": "block/cube",
+  "type": "fusion:connecting",
+  "connections": [
+    {
+      "type": "fusion:is_same_block"
+    }
+  ],
+  "loader": "fusion:model",
+  "textures": {
+    "down": "ls_chiseld:block/log_top_mangrove",
+    "up": "ls_chiseld:block/log_top_mangrove",
+    "north": "ls_chiseld:block/log_mangrove_reinforced",
+    "east": "ls_chiseld:block/log_mangrove_reinforced",
+    "south": "ls_chiseld:block/log_mangrove_reinforced",
+    "west": "ls_chiseld:block/log_mangrove_reinforced",
+    "particle": "ls_chiseld:block/log_top_mangrove"
+  },
+  "render_type": "solid"
+}

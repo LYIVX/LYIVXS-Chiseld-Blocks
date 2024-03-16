@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "ls_chiseld:jungle_leaves_poppy",
+    "ls_chiseld:jungle_leaves_dandilion",
+    "ls_chiseld:jungle_leaves_blue_orchid",
+    "ls_chiseld:jungle_leaves_semi_frosted",
+    "ls_chiseld:jungle_leaves_frosted",
+    "minecraft:jungle_leaves"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:BirchLeavesPoppy"
+      },
+      {
+        "value": "CUSTOM:BirchLeavesDandilion"
+      },
+      {
+        "value": "CUSTOM:BirchLeavesBlueOrchid"
+      },
+      {
+        "value": "CUSTOM:BirchLeavesSemiFrosted"
+      },
+      {
+        "value": "CUSTOM:BirchLeavesFrosted"
+      },
+      {
+        "value": "Blocks.LEAVES#2"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "birch_leaves",
+    "namespace": "mod"
+  }
+}

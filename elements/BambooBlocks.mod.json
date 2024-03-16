@@ -1,0 +1,31 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Blocks.BAMBOO_BLOCK"
+      },
+      {
+        "value": "CUSTOM:BambooBlockReinforced"
+      },
+      {
+        "value": "CUSTOM:BambooBlockPillar"
+      },
+      {
+        "value": "CUSTOM:BambooBlockPillarConnecting"
+      },
+      {
+        "value": "CUSTOM:BambooBlockNailed"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "bamboo_blocks",
+    "namespace": "mod"
+  }
+}

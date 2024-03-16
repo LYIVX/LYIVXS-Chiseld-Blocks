@@ -1,0 +1,22 @@
+{
+  "parent": "ls_chiseld:custom/block",
+  "type": "fusion:connecting",
+  "connections": [
+    {
+      "type": "fusion:is_same_block"
+    }
+  ],
+  "loader": "fusion:model",
+  "textures": {
+    "all": "ls_chiseld:block/dandilion",
+    "particle": "ls_chiseld:block/dandilion",
+    "east": "ls_chiseld:block/dandilion",
+    "south": "ls_chiseld:block/dandilion",
+    "north": "ls_chiseld:block/dandilion",
+    "west": "ls_chiseld:block/dandilion",
+    "up": "ls_chiseld:block/dandilion",
+    "tint": "ls_chiseld:block/cherry_leaves",
+    "down": "ls_chiseld:block/dandilion"
+  },
+  "render_type": "cutout_mipped"
+}

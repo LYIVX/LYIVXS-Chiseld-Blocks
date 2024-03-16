@@ -1,0 +1,20 @@
+{
+  "parent": "block/cube",
+  "type": "fusion:connecting",
+  "connections": [
+    {
+      "type": "fusion:is_same_block"
+    }
+  ],
+  "loader": "fusion:model",
+  "textures": {
+    "down": "ls_chiseld:block/log_top_acacia",
+    "up": "ls_chiseld:block/log_top_acacia",
+    "north": "ls_chiseld:block/log_acacia_reinforced",
+    "east": "ls_chiseld:block/log_acacia_reinforced",
+    "south": "ls_chiseld:block/log_acacia_reinforced",
+    "west": "ls_chiseld:block/log_acacia_reinforced",
+    "particle": "ls_chiseld:block/log_top_acacia"
+  },
+  "render_type": "solid"
+}

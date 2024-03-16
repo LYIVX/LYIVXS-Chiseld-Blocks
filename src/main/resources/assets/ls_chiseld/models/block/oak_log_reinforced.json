@@ -1,0 +1,20 @@
+{
+  "parent": "block/cube",
+  "type": "fusion:connecting",
+  "connections": [
+    {
+      "type": "fusion:is_same_block"
+    }
+  ],
+  "loader": "fusion:model",
+  "textures": {
+    "down": "ls_chiseld:block/log_top_oak",
+    "up": "ls_chiseld:block/log_top_oak",
+    "north": "ls_chiseld:block/log_oak_reinforced",
+    "east": "ls_chiseld:block/log_oak_reinforced",
+    "south": "ls_chiseld:block/log_oak_reinforced",
+    "west": "ls_chiseld:block/log_oak_reinforced",
+    "particle": "ls_chiseld:block/log_top_oak"
+  },
+  "render_type": "solid"
+}

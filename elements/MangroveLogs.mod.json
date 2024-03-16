@@ -1,0 +1,34 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:MangroveLogBundle"
+      },
+      {
+        "value": "CUSTOM:MangroveLogPillar"
+      },
+      {
+        "value": "CUSTOM:MangroveLogPillarConnecting"
+      },
+      {
+        "value": "CUSTOM:MangroveLogNailed"
+      },
+      {
+        "value": "Blocks.MANGROVE_LOG"
+      },
+      {
+        "value": "CUSTOM:MangroveLogReinforced"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "mangrove_logs",
+    "namespace": "mod"
+  }
+}

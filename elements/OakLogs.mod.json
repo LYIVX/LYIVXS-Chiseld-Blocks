@@ -1,0 +1,34 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:OakLogBundle"
+      },
+      {
+        "value": "CUSTOM:OakLogPillar"
+      },
+      {
+        "value": "CUSTOM:OakLogPillarConnecting"
+      },
+      {
+        "value": "CUSTOM:OakLogNailed"
+      },
+      {
+        "value": "Blocks.LOG#0"
+      },
+      {
+        "value": "CUSTOM:OakLogReinforced"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "oak_logs",
+    "namespace": "mod"
+  }
+}

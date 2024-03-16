@@ -1,0 +1,34 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:SpruceLogBundle"
+      },
+      {
+        "value": "CUSTOM:SpruceLogPillar"
+      },
+      {
+        "value": "CUSTOM:SpruceLogPillarConnecting"
+      },
+      {
+        "value": "CUSTOM:SpruceLogNailed"
+      },
+      {
+        "value": "Blocks.LOG#1"
+      },
+      {
+        "value": "CUSTOM:SpruceLogReinforced"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "spruce_logs",
+    "namespace": "mod"
+  }
+}

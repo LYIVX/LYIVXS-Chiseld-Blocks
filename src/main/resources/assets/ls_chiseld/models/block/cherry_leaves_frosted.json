@@ -1,0 +1,22 @@
+{
+  "parent": "ls_chiseld:custom/block",
+  "type": "fusion:connecting",
+  "connections": [
+    {
+      "type": "fusion:is_same_block"
+    }
+  ],
+  "loader": "fusion:model",
+  "textures": {
+    "all": "ls_chiseld:block/leaves_cherry_frosted",
+    "particle": "ls_chiseld:block/leaves_cherry_frosted",
+    "east": "ls_chiseld:block/leaves_cherry_frosted",
+    "south": "ls_chiseld:block/leaves_cherry_frosted",
+    "north": "ls_chiseld:block/leaves_cherry_frosted",
+    "west": "ls_chiseld:block/leaves_cherry_frosted",
+    "up": "ls_chiseld:block/leaves_cherry_frosted",
+    "tint": "ls_chiseld:block/aaa",
+    "down": "ls_chiseld:block/leaves_cherry_frosted"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "block/cube",
+  "type": "fusion:connecting",
+  "connections": [
+    {
+      "type": "fusion:is_same_block"
+    }
+  ],
+  "loader": "fusion:model",
+  "textures": {
+    "down": "ls_chiseld:block/log_pillar_warped_top",
+    "up": "ls_chiseld:block/log_pillar_warped_top",
+    "north": "ls_chiseld:block/stem_pillar_warped",
+    "east": "ls_chiseld:block/stem_pillar_warped",
+    "south": "ls_chiseld:block/stem_pillar_warped",
+    "west": "ls_chiseld:block/stem_pillar_warped",
+    "particle": "ls_chiseld:block/log_pillar_warped_top"
+  },
+  "render_type": "solid"
+}

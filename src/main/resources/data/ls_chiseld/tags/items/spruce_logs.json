@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "ls_chiseld:spruce_log_bundle",
+    "ls_chiseld:spruce_log_pillar",
+    "ls_chiseld:spruce_log_pillar_connecting",
+    "ls_chiseld:spruce_log_nailed",
+    "minecraft:spruce_log",
+    "ls_chiseld:spruce_log_reinforced"
+  ]
+}

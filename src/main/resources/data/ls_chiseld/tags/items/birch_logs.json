@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "ls_chiseld:birch_log_bundle",
+    "ls_chiseld:birch_log_pillar",
+    "ls_chiseld:birch_log_pillar_connecting",
+    "ls_chiseld:birch_log_nailed",
+    "minecraft:birch_log",
+    "ls_chiseld:birch_log_reinforced"
+  ]
+}

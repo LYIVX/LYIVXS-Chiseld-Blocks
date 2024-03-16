@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "ls_chiseld:oak_leaves_poppy",
+    "ls_chiseld:oak_leaves_dandilion",
+    "ls_chiseld:oak_leaves_blue_orchid",
+    "ls_chiseld:oak_leaves_semi_frosted",
+    "ls_chiseld:oak_leaves_frosted",
+    "minecraft:oak_leaves"
+  ]
+}

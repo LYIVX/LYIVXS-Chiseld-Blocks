@@ -1,0 +1,34 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:BirchLogBundle"
+      },
+      {
+        "value": "CUSTOM:BirchLogPillar"
+      },
+      {
+        "value": "CUSTOM:BirchLogPillarConnecting"
+      },
+      {
+        "value": "CUSTOM:BirchLogNailed"
+      },
+      {
+        "value": "Blocks.LOG#2"
+      },
+      {
+        "value": "CUSTOM:BirchLogReinforced"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "birch_logs",
+    "namespace": "mod"
+  }
+}

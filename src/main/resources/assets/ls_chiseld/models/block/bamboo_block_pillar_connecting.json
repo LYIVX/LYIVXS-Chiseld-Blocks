@@ -1,0 +1,20 @@
+{
+  "parent": "block/cube",
+  "type": "fusion:connecting",
+  "connections": [
+    {
+      "type": "fusion:is_same_block"
+    }
+  ],
+  "loader": "fusion:model",
+  "textures": {
+    "down": "ls_chiseld:block/log_top_bamboo",
+    "up": "ls_chiseld:block/log_top_bamboo",
+    "north": "ls_chiseld:block/connecting_bamboo_log_pillar",
+    "east": "ls_chiseld:block/connecting_bamboo_log_pillar",
+    "south": "ls_chiseld:block/connecting_bamboo_log_pillar",
+    "west": "ls_chiseld:block/connecting_bamboo_log_pillar",
+    "particle": "ls_chiseld:block/log_top_bamboo"
+  },
+  "render_type": "solid"
+}

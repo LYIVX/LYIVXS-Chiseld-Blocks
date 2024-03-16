@@ -1,0 +1,34 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:CherryLogBundle"
+      },
+      {
+        "value": "CUSTOM:CherryLogPillar"
+      },
+      {
+        "value": "CUSTOM:CherryLogPillarConnecting"
+      },
+      {
+        "value": "CUSTOM:CherryLogNailed"
+      },
+      {
+        "value": "Blocks.CHERRY_LOG"
+      },
+      {
+        "value": "CUSTOM:CherryLogReinforced"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "cherry_logs",
+    "namespace": "mod"
+  }
+}

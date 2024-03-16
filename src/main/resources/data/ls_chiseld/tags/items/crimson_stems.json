@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "ls_chiseld:crimson_stem_bundle",
+    "ls_chiseld:crimson_stem_pillar",
+    "ls_chiseld:crimson_stem_pillar_connecting",
+    "ls_chiseld:crimson_stem_nailed",
+    "minecraft:crimson_stem",
+    "ls_chiseld:crimson_stem_reinforced"
+  ]
+}

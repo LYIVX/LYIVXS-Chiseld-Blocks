@@ -1,0 +1,20 @@
+{
+  "parent": "block/cube",
+  "type": "fusion:connecting",
+  "connections": [
+    {
+      "type": "fusion:is_same_block"
+    }
+  ],
+  "loader": "fusion:model",
+  "textures": {
+    "down": "ls_chiseld:block/log_top_cherry",
+    "up": "ls_chiseld:block/log_top_cherry",
+    "north": "ls_chiseld:block/log_cherry_reinforced",
+    "east": "ls_chiseld:block/log_cherry_reinforced",
+    "south": "ls_chiseld:block/log_cherry_reinforced",
+    "west": "ls_chiseld:block/log_cherry_reinforced",
+    "particle": "ls_chiseld:block/log_top_cherry"
+  },
+  "render_type": "solid"
+}

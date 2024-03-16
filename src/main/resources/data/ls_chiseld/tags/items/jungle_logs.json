@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "ls_chiseld:jungle_log_bundle",
+    "ls_chiseld:jungle_log_pillar",
+    "ls_chiseld:jungle_log_pillar_connecting",
+    "ls_chiseld:jungle_log_nailed",
+    "minecraft:jungle_log",
+    "ls_chiseld:jungle_log_reinforced"
+  ]
+}

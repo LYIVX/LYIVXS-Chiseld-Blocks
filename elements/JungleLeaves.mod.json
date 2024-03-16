@@ -1,0 +1,34 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:JungleLeavesPoppy"
+      },
+      {
+        "value": "CUSTOM:JungleLeavesDandilion"
+      },
+      {
+        "value": "CUSTOM:JungleLeavesBlueOrchid"
+      },
+      {
+        "value": "CUSTOM:JungleLeavesSemiFrosted"
+      },
+      {
+        "value": "CUSTOM:JungleLeavesFrosted"
+      },
+      {
+        "value": "Blocks.LEAVES#3"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "jungle_leaves",
+    "namespace": "mod"
+  }
+}

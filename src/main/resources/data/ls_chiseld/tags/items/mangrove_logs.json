@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "ls_chiseld:mangrove_log_bundle",
+    "ls_chiseld:mangrove_log_pillar",
+    "ls_chiseld:mangrove_log_pillar_connecting",
+    "ls_chiseld:mangrove_log_nailed",
+    "minecraft:mangrove_log",
+    "ls_chiseld:mangrove_log_reinforced"
+  ]
+}

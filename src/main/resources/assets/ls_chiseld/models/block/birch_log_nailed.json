@@ -1,0 +1,20 @@
+{
+  "parent": "block/cube",
+  "type": "fusion:connecting",
+  "connections": [
+    {
+      "type": "fusion:is_same_block"
+    }
+  ],
+  "loader": "fusion:model",
+  "textures": {
+    "down": "ls_chiseld:block/log_top_birch",
+    "up": "ls_chiseld:block/log_top_birch",
+    "north": "ls_chiseld:block/log_nailed_birch",
+    "east": "ls_chiseld:block/log_nailed_birch",
+    "south": "ls_chiseld:block/log_nailed_birch",
+    "west": "ls_chiseld:block/log_nailed_birch",
+    "particle": "ls_chiseld:block/log_top_birch"
+  },
+  "render_type": "solid"
+}

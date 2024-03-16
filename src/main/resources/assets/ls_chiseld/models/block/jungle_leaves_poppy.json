@@ -1,0 +1,22 @@
+{
+  "parent": "ls_chiseld:custom/block",
+  "type": "fusion:connecting",
+  "connections": [
+    {
+      "type": "fusion:is_same_block"
+    }
+  ],
+  "loader": "fusion:model",
+  "textures": {
+    "all": "ls_chiseld:block/poppy",
+    "particle": "ls_chiseld:block/poppy",
+    "east": "ls_chiseld:block/poppy",
+    "south": "ls_chiseld:block/poppy",
+    "north": "ls_chiseld:block/poppy",
+    "west": "ls_chiseld:block/poppy",
+    "up": "ls_chiseld:block/poppy",
+    "tint": "ls_chiseld:block/leaves_jungle",
+    "down": "ls_chiseld:block/poppy"
+  },
+  "render_type": "cutout_mipped"
+}

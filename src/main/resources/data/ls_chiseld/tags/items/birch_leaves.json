@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "ls_chiseld:birch_leaves_poppy",
+    "ls_chiseld:birch_leaves_dandilion",
+    "ls_chiseld:birch_leaves_blue_orchid",
+    "ls_chiseld:birch_leaves_semi_frosted",
+    "ls_chiseld:birch_leaves_frosted",
+    "minecraft:birch_leaves"
+  ]
+}

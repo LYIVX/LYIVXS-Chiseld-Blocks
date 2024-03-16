@@ -1,0 +1,34 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:AcaciaLogBundle"
+      },
+      {
+        "value": "CUSTOM:AcaciaLogPillar"
+      },
+      {
+        "value": "CUSTOM:AcaciaLogPillarConnecting"
+      },
+      {
+        "value": "CUSTOM:AcaciaLogNailed"
+      },
+      {
+        "value": "Blocks.LOG2#0"
+      },
+      {
+        "value": "CUSTOM:AcaciaLogReinforced"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "acacia_logs",
+    "namespace": "mod"
+  }
+}

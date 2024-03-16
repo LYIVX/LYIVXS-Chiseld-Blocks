@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "ls_chiseld:oak_log_bundle",
+    "ls_chiseld:oak_log_pillar",
+    "ls_chiseld:oak_log_pillar_connecting",
+    "ls_chiseld:oak_log_nailed",
+    "minecraft:oak_log",
+    "ls_chiseld:oak_log_reinforced"
+  ]
+}

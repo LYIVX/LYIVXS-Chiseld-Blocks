@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "ls_chiseld:warped_stem_bundle",
+    "ls_chiseld:warped_stem_pillar",
+    "ls_chiseld:warped_stem_pillar_connecting",
+    "ls_chiseld:warped_stem_nailed",
+    "minecraft:warped_stem",
+    "ls_chiseld:warped_stem_reinforced"
+  ]
+}

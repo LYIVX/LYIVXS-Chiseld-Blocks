@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:bamboo_block",
+    "ls_chiseld:bamboo_block_reinforced",
+    "ls_chiseld:bamboo_block_pillar",
+    "ls_chiseld:bamboo_block_pillar_connecting",
+    "ls_chiseld:bamboo_block_nailed"
+  ]
+}

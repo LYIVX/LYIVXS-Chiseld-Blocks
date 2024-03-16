@@ -1,0 +1,22 @@
+{
+  "parent": "ls_chiseld:custom/block",
+  "type": "fusion:connecting",
+  "connections": [
+    {
+      "type": "fusion:is_same_block"
+    }
+  ],
+  "loader": "fusion:model",
+  "textures": {
+    "all": "ls_chiseld:block/leaves_cherry_semi",
+    "particle": "ls_chiseld:block/leaves_cherry_semi",
+    "east": "ls_chiseld:block/leaves_cherry_semi",
+    "south": "ls_chiseld:block/leaves_cherry_semi",
+    "north": "ls_chiseld:block/leaves_cherry_semi",
+    "west": "ls_chiseld:block/leaves_cherry_semi",
+    "up": "ls_chiseld:block/leaves_cherry_frosted",
+    "tint": "ls_chiseld:block/cherry_leaves",
+    "down": "ls_chiseld:block/aaa"
+  },
+  "render_type": "cutout_mipped"
+}

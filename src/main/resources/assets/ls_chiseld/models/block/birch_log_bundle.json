@@ -1,0 +1,20 @@
+{
+  "parent": "block/cube",
+  "type": "fusion:connecting",
+  "connections": [
+    {
+      "type": "fusion:is_same_block"
+    }
+  ],
+  "loader": "fusion:model",
+  "textures": {
+    "down": "ls_chiseld:block/log_bundle_birch_top",
+    "up": "ls_chiseld:block/log_bundle_birch_top",
+    "north": "ls_chiseld:block/log_bundle_birch",
+    "east": "ls_chiseld:block/log_bundle_birch",
+    "south": "ls_chiseld:block/log_bundle_birch",
+    "west": "ls_chiseld:block/log_bundle_birch",
+    "particle": "ls_chiseld:block/log_bundle_birch_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "ls_chiseld:acacia_log_bundle",
+    "ls_chiseld:acacia_log_pillar",
+    "ls_chiseld:acacia_log_pillar_connecting",
+    "ls_chiseld:acacia_log_nailed",
+    "minecraft:acacia_log",
+    "ls_chiseld:acacia_log_reinforced"
+  ]
+}

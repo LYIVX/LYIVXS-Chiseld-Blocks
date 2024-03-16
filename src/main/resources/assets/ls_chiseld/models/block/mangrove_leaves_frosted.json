@@ -1,0 +1,22 @@
+{
+  "parent": "ls_chiseld:custom/block",
+  "type": "fusion:connecting",
+  "connections": [
+    {
+      "type": "fusion:is_same_block"
+    }
+  ],
+  "loader": "fusion:model",
+  "textures": {
+    "all": "ls_chiseld:block/leaves_mangrove_frosted_top",
+    "particle": "ls_chiseld:block/leaves_mangrove_frosted_top",
+    "east": "ls_chiseld:block/leaves_mangrove_frosted_top",
+    "south": "ls_chiseld:block/leaves_mangrove_frosted_top",
+    "north": "ls_chiseld:block/leaves_mangrove_frosted_top",
+    "west": "ls_chiseld:block/leaves_mangrove_frosted_top",
+    "up": "ls_chiseld:block/leaves_mangrove_frosted_top",
+    "tint": "ls_chiseld:block/aaa",
+    "down": "ls_chiseld:block/leaves_mangrove_frosted_top"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,34 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:JungleLogBundle"
+      },
+      {
+        "value": "CUSTOM:JungleLogPillar"
+      },
+      {
+        "value": "CUSTOM:JungleLogPillarConnecting"
+      },
+      {
+        "value": "CUSTOM:JungleLogNailed"
+      },
+      {
+        "value": "Blocks.LOG#3"
+      },
+      {
+        "value": "CUSTOM:JungleLogReinforced"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "jungle_logs",
+    "namespace": "mod"
+  }
+}

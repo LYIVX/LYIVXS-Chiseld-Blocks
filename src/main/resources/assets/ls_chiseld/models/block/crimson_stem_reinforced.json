@@ -1,0 +1,20 @@
+{
+  "parent": "block/cube",
+  "type": "fusion:connecting",
+  "connections": [
+    {
+      "type": "fusion:is_same_block"
+    }
+  ],
+  "loader": "fusion:model",
+  "textures": {
+    "down": "ls_chiseld:block/crimson_stem_top",
+    "up": "ls_chiseld:block/crimson_stem_top",
+    "north": "ls_chiseld:block/stem_reinforced_crimson",
+    "east": "ls_chiseld:block/stem_reinforced_crimson",
+    "south": "ls_chiseld:block/stem_reinforced_crimson",
+    "west": "ls_chiseld:block/stem_reinforced_crimson",
+    "particle": "ls_chiseld:block/crimson_stem_top"
+  },
+  "render_type": "solid"
+}

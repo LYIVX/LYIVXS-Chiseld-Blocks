@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "ls_chiseld:acacia_leaves_poppy",
+    "ls_chiseld:acacia_leaves_dandilion",
+    "ls_chiseld:acacia_leaves_blue_orchid",
+    "ls_chiseld:acacia_leaves_semi_frosted",
+    "ls_chiseld:acacia_leaves_frosted",
+    "minecraft:acacia_leaves"
+  ]
+}

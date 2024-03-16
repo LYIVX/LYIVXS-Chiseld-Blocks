@@ -1,0 +1,34 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:WarpedStemBundle"
+      },
+      {
+        "value": "CUSTOM:WarpedStemPillar"
+      },
+      {
+        "value": "CUSTOM:WarpedStemPillarConnecting"
+      },
+      {
+        "value": "CUSTOM:WarpedStemNailed"
+      },
+      {
+        "value": "Blocks.WARPED_STEM"
+      },
+      {
+        "value": "CUSTOM:WarpedStemReinforced"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "warped_stems",
+    "namespace": "mod"
+  }
+}

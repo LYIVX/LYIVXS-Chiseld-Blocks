@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "ls_chiseld:dark_oak_log_bundle",
+    "ls_chiseld:dark_oak_log_pillar",
+    "ls_chiseld:dark_oak_log_pillar_connecting",
+    "ls_chiseld:dark_oak_log_nailed",
+    "minecraft:dark_oak_log",
+    "ls_chiseld:dark_oak_log_reinforced"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:CherryLeavesPoppy"
+      },
+      {
+        "value": "CUSTOM:CherryLeavesDandilion"
+      },
+      {
+        "value": "CUSTOM:CherryLeavesBlueOrchid"
+      },
+      {
+        "value": "CUSTOM:CherryLeavesSemiFrosted"
+      },
+      {
+        "value": "CUSTOM:CherryLeavesFrosted"
+      },
+      {
+        "value": "Blocks.CHERRY_LEAVES"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "cherry_leaves",
+    "namespace": "mod"
+  }
+}

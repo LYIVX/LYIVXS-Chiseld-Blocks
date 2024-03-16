@@ -1,0 +1,20 @@
+{
+  "parent": "block/cube",
+  "type": "fusion:connecting",
+  "connections": [
+    {
+      "type": "fusion:is_same_block"
+    }
+  ],
+  "loader": "fusion:model",
+  "textures": {
+    "down": "ls_chiseld:block/log_top_jungle",
+    "up": "ls_chiseld:block/log_top_jungle",
+    "north": "ls_chiseld:block/log_nailed_jungle",
+    "east": "ls_chiseld:block/log_nailed_jungle",
+    "south": "ls_chiseld:block/log_nailed_jungle",
+    "west": "ls_chiseld:block/log_nailed_jungle",
+    "particle": "ls_chiseld:block/log_top_jungle"
+  },
+  "render_type": "solid"
+}
